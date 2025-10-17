@@ -147,7 +147,7 @@
     {"key": "應用商店","name": "應用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "./json/market.json","jar": "./jar/pg.jar"},
     {"key": "bb","name": "配置接口完全免费","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/drpy.js"},
     {"key": "cc","name": "请勿相信视频中任何广告","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/drpy.js"},
-    //巧记的
+    //巧记的,
     {"key": "天天","name": "天天┃影视","type": 3,"jar":"./jar/qiaoji.jar","api": "csp_TTian","playerType": 2,"ext": "7lj763gg0939791h1l3888jig44gi291li"},
     {"key":"drpy_js_金牌","name":"金牌┃影视","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/金牌影视.js"},
     {"key":"剧评","name":"剧评4K┃影视","type":3,"jar":"./jar/qiaoji.jar","api":"csp_Jpys","playerType":2,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
