@@ -147,8 +147,7 @@
     {"key": "應用商店","name": "應用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "./json/market.json","jar": "./jar/pg.jar"},
     {"key": "bb","name": "配置接口完全免费","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/drpy.js"},
     {"key": "cc","name": "请勿相信视频中任何广告","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/drpy.js"},
-
-    //巧记的
+    //QJ
     {"key": "天天","name": "天天┃影视","type": 3,"jar":"./jar/qiaoji.jar","api": "csp_TTian","playerType": 2,"ext": "7lj763gg0939791h1l3888jig44gi291li"},
     {"key":"drpy_js_金牌","name":"金牌┃影视","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/金牌影视.js"},
     {"key":"剧评","name":"剧评4K┃影视","type":3,"jar":"./jar/qiaoji.jar","api":"csp_Jpys","playerType":2,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
@@ -166,13 +165,12 @@
     {"key":"csp_Ikanbot","name": "Ikanbot┃影视","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.aikanbot.com","jar": "./jar/xyq1.jar;md5;3a1edc7bf8ca3dcd37307fe0789fabab"},
     {"key": "csp_XYQHiker_樱花动漫","name":"樱花动漫┃动漫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/樱花动漫.json"},
     {"key": "csp_XYQHiker_动漫巴士","name":"动漫巴士┃动漫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/动漫巴士.json"},
-
-    //xh
+    //XH
     {"key": "瓜子","name": "瓜子","type": 3,"api": "csp_GuaziGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/m.png"},
     {"key": "小苹果","name": "小苹果","type": 3,"api": "csp_XpgGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/m.png"},
     {"key": "csp_Btt","name": "比特在线","type": 3,"api": "csp_BttGuard","searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./jar/m.png"},
     {"key": "csp_Ddys","name": "低端","type": 3,"api": "csp_DdysGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/m.png"},
-    {"key": "yhdm","name": "樱花动漫","type": 3,"api": "csp_YHDMGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/m.png"}
+    {"key": "yhdm","name": "樱花动漫","type": 3,"api": "csp_YHDMGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/m.png"},
   ],
   "parses": [
     {"name": "Json聚合","type": 3,"url": "Demo"},
