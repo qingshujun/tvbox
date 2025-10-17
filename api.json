@@ -147,6 +147,32 @@
     {"key": "應用商店","name": "應用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "./json/market.json","jar": "./jar/pg.jar"},
     {"key": "bb","name": "配置接口完全免费","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/drpy.js"},
     {"key": "cc","name": "请勿相信视频中任何广告","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/drpy.js"}
+
+    //巧记的
+    {"key": "天天","name": "天天┃影视","type": 3,"jar":"./jar/qiaoji.jar","api": "csp_TTian","playerType": 2,"ext": "7lj763gg0939791h1l3888jig44gi291li"},
+    {"key":"drpy_js_金牌","name":"金牌┃影视","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/金牌影视.js"},
+    {"key":"剧评","name":"剧评4K┃影视","type":3,"jar":"./jar/qiaoji.jar","api":"csp_Jpys","playerType":2,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
+    {"key": "lanyingys","name": "橘子4K┃影视","type": 3,"jar":"./jar/qiaoji.jar","api": "csp_Muou","playerType": 2,"ext": "7lj763gg0939790i5g649ki3hj5k98jil1g6jqiaoji6jg2458hhjjh9i4i62271j0hj124lj80ll9i8"},
+    {"key":"huomaoys","name":"火猫┃影视","type":3,"jar":"./jar/qiaoji_old.jar","api":"csp_Muou","playerType":2,"ext":"7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602"},
+    {"key":"柠檬","name":"柠檬┃影视","type":3,"jar":"./jar/qiaoji.jar","api":"csp_Nmvod","playerType":2,"ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
+    {"key": "Dygang","name": "电影港┃影视","type": 3,"jar":"./jar/qiaoji.jar","api": "csp_Dygang","searchable": 1,"quickSearch": 1,"filterable": 0},
+    //XYQ规则区
+    {"key": "csp_XYQHiker_农民影视","name":"农民影视┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/农民影视.json"},
+    {"key": "csp_XYQHiker_剧圈圈","name":"剧圈圈┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/剧圈圈.json","click":"document.getElementById('playleft').children[0].contentWindow.document.getElementById('start').click()"},
+    {"key": "csp_XYQHiker_骚火电影VIP","name": "骚火电影┃影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQHiker/骚火电影VIP.json"},
+    {"key": "csp_XYQHiker_电影盒子","name":"电影盒子┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影盒子.json"},
+    //jar内置爬虫规则区
+    {"key":"360_spider","name":"360影视┃影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1,"jar": "./jar/xyq1.jar;md5;3a1edc7bf8ca3dcd37307fe0789fabab"},
+    {"key":"csp_Ikanbot","name": "Ikanbot┃影视","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.aikanbot.com","jar": "./jar/xyq1.jar;md5;3a1edc7bf8ca3dcd37307fe0789fabab"},
+    {"key": "csp_XYQHiker_樱花动漫","name":"樱花动漫┃动漫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/樱花动漫.json"},
+    {"key": "csp_XYQHiker_动漫巴士","name":"动漫巴士┃动漫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/动漫巴士.json"},
+
+    //xh
+    {"key": "瓜子","name": "瓜子","type": 3,"api": "csp_GuaziGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/m.png"},
+    {"key": "小苹果","name": "小苹果","type": 3,"api": "csp_XpgGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/m.png"},
+    {"key": "csp_Btt","name": "比特在线","type": 3,"api": "csp_BttGuard","searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./jar/m.png"},
+    {"key": "csp_Ddys","name": "低端","type": 3,"api": "csp_DdysGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/m.png"},
+    {"key": "yhdm","name": "樱花动漫","type": 3,"api": "csp_YHDMGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/m.png"}
   ],
   "parses": [
     {"name": "Json聚合","type": 3,"url": "Demo"},
